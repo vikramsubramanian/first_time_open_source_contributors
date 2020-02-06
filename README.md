@@ -1,5 +1,4 @@
-# first_time_OSS_contributors
-## An empirical study of first time open source contributors on GitHub
+# An empirical study of first time open source contributors on GitHub
 
 ### Part of research accepted at the ICSE2020 ACM Student Research Competition
 
