@@ -1,5 +1,9 @@
 # An empirical study of first time open source contributors on GitHub
 
+https://2020.icse-conferences.org/details/icse-2020-ACM-Student-Research-Competition/8/An-empirical-study-of-the-first-contributions-of-developers-to-open-source-projects-o
+#
+
+
 ### Part of research accepted at ICSE2020
 
 
