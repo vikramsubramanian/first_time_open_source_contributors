@@ -1,14 +1,14 @@
 # An empirical study of first time open source contributors on GitHub
-
 ### Research paper accepted at ICSE2020
 ### Winner at ICSE2020 ACM Student Research Competition(Undergraduate)
 
+#### In the news 
+1. https://cs.uwaterloo.ca/news/cheriton-faculty-members-graduate-undergraduate-students-win-four-awards-at-icse-2020
+2. https://uwaterloo.ca/software-engineering/news/se-student-wins-acmicse-research-award
 
 
 ![poster](./poster.jpeg)
 
-####
-In the news: https://cs.uwaterloo.ca/news/cheriton-faculty-members-graduate-undergraduate-students-win-four-awards-at-icse-2020
 
 
 #### Abstract
