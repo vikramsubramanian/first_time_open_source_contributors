@@ -2,6 +2,10 @@
 ### Research paper accepted at ICSE2020
 ### Winner at ICSE2020 ACM Student Research Competition(Undergraduate)
 
+
+[![HitCount](http://hits.dwyl.com/vikramsubramanian/first_time_OSS_contributors.svg)](http://hits.dwyl.com/vikramsubramanian/first_time_OSS_contributors)
+
+
 #### In the news 
 1. https://cs.uwaterloo.ca/news/cheriton-faculty-members-graduate-undergraduate-students-win-four-awards-at-icse-2020
 2. https://uwaterloo.ca/software-engineering/news/se-student-wins-acmicse-research-award
